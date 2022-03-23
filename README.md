@@ -83,7 +83,7 @@ You can simply download the code and run on your device.
 
 Muhammad Moiz - mhdmoizthr123@gmail.com
 
-Project Link: [https://github.com/moiz97/Expense-UI](https://github.com/moiz97/Job2Liv-Flutter-UI)
+Project Link: [https://github.com/moiz97/Job2Liv-Flutter-UI](https://github.com/moiz97/Job2Liv-Flutter-UI)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
